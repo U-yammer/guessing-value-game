@@ -1,3 +1,5 @@
+// ref: https://doc.rust-jp.rs/book-ja/ch02-00-guessing-game-tutorial.html
+
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
